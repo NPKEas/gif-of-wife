@@ -1,0 +1,18 @@
+const CONFIG = {
+    introTitle: 'Babe à!',
+    introDesc: `Trái đất vốn lạ thường,
+    Mà sao em cứ đi nhầm đường,
+    Lạc vào tim anh lẻ loi,
+    Đằng sau chữ yêu đây là thương(Hương😘😘)`,
+    btnIntro: 'hihi',
+    title: 'EM CÓ IU A HONG NÈ 😙😙😙',
+    desc: '❤️❤️❤️❤️❤️❤️❤️❤️❤️ ',
+    btnYes: 'Dạ có ạ <33',
+    btnNo: 'Không, Anh à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'đố em viết đc chữ khác ngoài chữ: tại a đzzzaiii',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Bất ngờ ko bé',
+    btnAccept: 'CÓ ạ',
+}
